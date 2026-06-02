@@ -44,6 +44,6 @@ public class App {
 
     long fin2 = System.nanoTime();
 
-    System.out.println("Desordenado | QuickSort " + cantidad + " | " + (fin2 - inicio2)/1_000_000 + "ms"); }
+    System.out.println("Desordenado | QuickSort " + cantidad + " | " + (fin2 - inicio2)/1_000_000 + " ms"); }
 
 }
