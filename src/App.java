@@ -46,6 +46,4 @@ public class App {
 
     System.out.println("Desordenado | QuickSort " + cantidad + " | " + (fin2 - inicio2)/1_000_000 + "ms"); }
 
-    System.out.println("Cantidad recibida: " + cantidad);
-    System.out.println("Tamaño: " + base.length);
 }
